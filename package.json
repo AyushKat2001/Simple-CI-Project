@@ -4,7 +4,7 @@
   "description": "Simple CI Pipeline",
   "main": "src/index.js",
   "scripts": {
-    "test": "tests"
+    "test": "jest"
   },
   
   "devDependencies": {
