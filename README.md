@@ -1,53 +1,52 @@
 ## Simple CI Project
 
 🚀 Overview
-
-This is a simple Node.js project that demonstrates how to set up a basic CI/CD pipeline using GitHub Actions. The pipeline installs dependencies and runs unit tests whenever you push code or open a pull request.
+- This is a simple Node.js project that demonstrates how to set up a basic CI/CD pipeline using GitHub Actions. The pipeline installs dependencies and runs unit tests whenever you push code or open a pull request.
 
 ✅ Features
 
-Simple Node.js app
+- Simple Node.js app
 
-Unit testing with Jest
+- Unit testing with Jest
 
-GitHub Actions workflow for continuous integration
+- GitHub Actions workflow for continuous integration
 
 📂 Project Structure
 
-Main application file
+- Main application file
 
-Tests folder with sample unit test
+- Tests folder with sample unit test
 
-GitHub Actions workflow under .github/workflows/
+- GitHub Actions workflow under .github/workflows/
 
 ⚙️ Scripts
 
-Install dependencies with npm install
+- Install dependencies with npm install
 
-Run tests with npm test
+- Run tests with npm test
 
 🤖 CI/CD Workflow
 
-The pipeline is triggered on:
+- The pipeline is triggered on:
 
-Push to main branch
+- Push to main branch
 
-Pull requests to main
+- Pull requests to main
 
-The jobs include:
+- The jobs include:
 
-Checkout repository
+- Checkout repository
 
-Setup Node.js environment
+- Setup Node.js environment
 
-Install dependencies
+- Install dependencies
 
-Run unit tests
+- Run unit tests
 
 📌 How to Run Locally
 
-Clone the repository
+- Clone the repository
 
-Run npm install
+- Run npm install
 
-Run npm test to execute the unit tests
+- Run npm test to execute the unit tests
